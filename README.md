@@ -13,6 +13,7 @@
 
 <h2> Next goals</h2>
 
+-  SIEM project integration
 -  Mastering splunk<br>
 -  Try hack me <br>
 -  Google cybersecurity certification <br>
