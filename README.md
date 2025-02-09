@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashiqul! <br/><a href="https://www.linkedin.com/in/ashiqul-hoque-chowdhury-704b76187/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Ashiqul! <br/><a href="https://www.linkedin.com/in/ashiqul-hoque-chowdhury-704b76187/">SOC analyst</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -6,7 +6,7 @@
   - [IoT_AP](https://github.com/ashiq4321/IoT_AP)
 
 
-<h2> Certifiactions</h2>
+<h2> Completion Certifiactions</h2>
   
 -  CompTIA Security+<br>
 -  SOC completion certification Let's defend <br>
