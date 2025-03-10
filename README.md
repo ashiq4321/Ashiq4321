@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashiqul! <br/><a href="https://www.linkedin.com/in/ashiqul-hoque-chowdhury-704b76187/">SOC analyst</a></h1>
+<h1>Hi, I'm Ashiqul! <br/><a href="https://www.linkedin.com/in/ashiqul-hoque-chowdhury-704b76187/">SOC analyst| IT professional</a></h1>
 
 <h2>👨‍💻 Cyber Security related Projects:</h2>
 
